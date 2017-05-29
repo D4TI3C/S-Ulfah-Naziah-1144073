@@ -1,0 +1,38 @@
+Kecerdasan Buatan – Pertemuan 5
+
+1.	Latar Belakang
+Dalam pembahasan kali ini dalam kecerdasan buatan akan dijelaskan sedikit tentang pengolahan bahasa alami atau natural language processing.
+
+2.	Pembahasan
+Natural Language Processing yaitu salah satu bidang ilmu komputer di kecerdasan buatan yang berfokus dalam interaksi antar komputer dengan bahasa manusia. Seperti bahasa yang kita gunakan sehari-hari yaitu bahasa sunda atau pun bahasa Indonesia. tujuannya untuk membuat aplikasi atau mesin yang bisa memahami bahasa manusia lalu memberikan respon balik.
+Ada beberapa tingkat pengolahan bahasa alami atau natural languange processing diantaranya:
+•	Fonentik dan fonologi
+•	Morfologi
+•	Sintaksis
+•	Semantik
+•	Pragmantik
+•	Discourse Knowledge
+•	World Knowledge
+
+3.	Penutup
+a.	Kesimpulan
+Ruang Keadaan atau State Space adalah suatu ruang yang berisi semua keadaan yang mungkin 
+b.	Saran
+Untuk memahami dan mulai belajar tentang materi tersebut lebih jelas baiknya jika kita mencari di buku-buku yang terpercaya atau melakukan praktikum sendiri
+	Github: 
+Referensi: http://metode1.blogspot.co.id/2013/07/pengertian-bahasa-alami.html
+
+Plagiarism:
+• https://drive.google.com/open?id=0B1cywxUAoAPOUng0XzFya0dPTHc
+• https://drive.google.com/open?id=0B1cywxUAoAPOV25DcU9OdWUxUEE
+
+
+Nama	: Siti Ulfah Naziah
+NPM	: 1144073
+Kelas	: 3C
+Prodi	: D4 Teknik Informatika
+Kampus : Politeknik Pos Indonesia
+
+
+
+
